@@ -1,42 +1,38 @@
 body {
-    color: rgb(87, 89, 206);
-    background: rgb(211, 199, 161);
+    background-color: rgb(211, 199, 161);
     color: rgb(9, 18, 70);
-    margin: 0px;
     font-family: "Oswald", sans-serif;
-
-    }
-     header {
-    font-size: 50px;
-
-    border: dashed 5px  pink;
-       
-    border-bottom: solid 2px rgb(226, 193, 8);
-    padding: 20px;
-    font-size: 32px;}
-    h1 {
-    font-size: 30px;
-    }
-
-    p {
-    font-size: 20px;
- 
-     }
-    section {
-    background: rgb(184,156,213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-    }
+    margin: 0px;
     
-    .chamada-texto {
-    margin-right: 5%;
     }
-    h1 {
-    font-size: 40px;
-    }
+        header {
+                font-size: 50px;
+                 border: dashed 5px  rgb(69, 88, 52);
+                border-bottom: solid 2px rgb(226, 193, 8);
+                padding: 20px;
+                font-size: 32px;}
+                h1 {
+                font-size: 30px;
+                }
+
+                p {
+                font-size: 20px;
+                 }
+                section {
+                background: rgb(184,156,213);
+                padding-bottom: 80px;
+                padding-top: 80px;
+                display: flex;
+                justify-content: center;
+                }
     
-    p {
-    font-size: 20px;
+                .chamada-texto {
+                margin-right: 5%;
+                 }
+                h1 {
+                font-size: 40px;
+                }
+    
+                p {
+                font-size: 20px;
     }

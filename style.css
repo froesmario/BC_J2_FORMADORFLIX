@@ -24,10 +24,11 @@ body {
                 padding-top: 80px;
                 display: flex;
                 justify-content: center;
+
                 }
     
                 .chamada-texto {
-                margin-right: 5%;
+                margin-right: 10%;
                  }
                 h1 {
                 font-size: 40px;

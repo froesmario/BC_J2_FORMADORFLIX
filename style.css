@@ -36,7 +36,7 @@ section {
 .chamada-texto {
     margin-right: 10%;
 }
-.categoria-videos {
+.outrasRecommendações {
   display: flex;
   overflow-x: auto;
   gap: 10px;

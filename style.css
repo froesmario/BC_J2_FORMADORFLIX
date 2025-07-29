@@ -22,6 +22,8 @@ p {
     font-size: 20px;
 }
 
+
+
 section {
     background: rgb(237, 243, 159);
     padding-bottom: 80px;
@@ -33,6 +35,11 @@ section {
 
 .chamada-texto {
     margin-right: 10%;
+}
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
 }
 
 img {

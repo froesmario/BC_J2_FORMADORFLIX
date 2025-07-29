@@ -35,6 +35,10 @@ section {
     margin-right: 10%;
 }
 
+img {
+    width: 200px;
+    height: 300px;
+}
 h1 {
     font-size: 40px;
 }

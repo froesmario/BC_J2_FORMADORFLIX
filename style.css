@@ -37,14 +37,15 @@ section {
     margin-right: 10%;
 }
 .outrasRecommendações {
+
   display: flex;
   overflow-x: auto;
   gap: 10px;
 }
 
 img {
-    width: 200px;
-    height: 300px;
+    width: 100px;
+    height: 150px;
 }
 h1 {
     font-size: 40px;
